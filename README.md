@@ -9,7 +9,7 @@ Realtime voice tutoring starter with transcript and correction pipeline placehol
 - Returns correction notes, vocabulary tips, and tutor follow-ups
 - Maintains turn history within session state
 
-## Implemented Feature Slice (Project 11)
+## Implemented Feature Slice
 
 - Session bootstrap with level and scenario selection
 - Turn-by-turn transcript analysis endpoint
